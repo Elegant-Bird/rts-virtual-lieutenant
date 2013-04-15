@@ -1,0 +1,7 @@
+Farms - This is the one resource that you absolutely cannot do without. The unfortunate part is that no matter how many farms you have, it won't be enough unless you have a second city. After you hit about 120K might and higher, it becomes nearly impossible to maintain enough food in just one city. Your troops will simply eat it all. Every soldier has an upkeep
+
+Arboretum - Wood is an important resource for buildings and training. Some troops require more wood than others, and this is true for all of the resources. 
+
+Mine - These will increase your ore production. Ore is used mostly for training, so though it may not seem like you need much in the beginning (mostly because you aren't yet focused on training troops), you will need it later, so don't automatically count it out. Admittedly, you may be able to get away with having few ore mines than the other resource fields, especially since these take so much longer to level up.
+
+Quarry - These will increase your stone production. Stone is necessary for most of your construction, just as wood is, and is especially necessary for the wall (walls will eat that right up). You also need it for training your troops. Like all resource fields, these should be at least a level 9.

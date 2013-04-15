@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RTS Virtual Lieutenant</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="Name">Enemy Name</string>
+    <string name="Alliance">Alliance</string>
+    <string name="Might">Might</string>
+    <string name="Position">Position</string>
+    <string name="City1X">City 1 X:</string>
+    <string name="City1Y">Y:</string>
+    <string name="City2X">City 2 X:</string>
+    <string name="City3X">City 3 X:</string>
+    <string name="Save">Save</string>
+    <string name="Cancel">Cancel</string>
+    <string name="agression_level">Aggression Level</string>
+    <string name="enemy_coordinates">Enemy Coordinates</string>
+    <string name="personal_shitlist">Personal $Hit List</string>
+    <string name="personal_growth">Personal Growth Tracker</string>
+    <string name="wilds">Wilds</string>
+    <string name="flipping">Wild Flipping</string>
+    <string name="attack_defense">Attack and Defense</string>
+    <string name="city_defense">Defending Your City</string>
+    <string name="attacking">Attacking Other Cities</string>
+    <string name="alliance">Alliance Assistance</string>
+    <string name="join_alliance">When to Join an Alliance</string>
+    <string name="resource_request">Requesting Reources</string>
+    <string name="reins_request">Requesting Reinforcements</string>
+    <string name="heroes">Heroes and Experience</string>
+    <string name="relics_deeds">Relics and City Deeds</string>
+    <string name="more_cities">Managing 2nd and 3rd Cities</string>
+    <string name="relics">Relics for City Deeds</string>
+    <string name="might">Troops and Might</string>
+    <string name="buildings">City Buildings</string>
+    <string name="resource_fields">Resource Fields</string>
+    <string name="great_hall">Great Hall</string>
+    <string name="muster_field">Muster Field</string>
+    <string name="vault">Vault</string>
+    <string name="watch_tower">Watch Tower</string>
+    <string name="sage_tower">Sage\'s Tower</string>
+    <string name="academy">Academy</string>
+    <string name="stable">Stable</string>
+    <string name="forge">Forge</string>
+    <string name="armory">Armory</string>
+    <string name="keep">Keep</string>
+    <string name="wall">Wall</string>
+    <string name="tavern">Tavern</string>
+    <string name="embassy">Embassy</string>
+    <string name="houses">Houses</string>
+    <string name="barracks">Barracks</string>
+    <string name="title_activity_add_personal_enemy">Add Personal Enemy</string>
+    <string name="title_activity_personal_hitlist">Personal $Hit List</string>
+    <string name="title_activity_enemy">Enemy Coordinates</string>
+    <string name="title_activity_add_enemy">Add New Enemy</string>    
+    <string name="title_activity_strategy_guide">KOM Strategy Guide</string>
+    <string name="title_activity_wilds_menu">Wilds</string>
+    <string name="title_activity_attack_defense_menu">Attack/Defense Menu</string>
+    <string name="title_activity_alliance_menu">Alliances</string>
+    <string name="title_activity_deeds_menu">Relics and Cities</string>
+    <string name="title_activity_buildings_menu">City Buildings</string>
+
+</resources>

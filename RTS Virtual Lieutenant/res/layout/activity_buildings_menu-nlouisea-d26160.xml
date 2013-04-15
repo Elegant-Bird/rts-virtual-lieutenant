@@ -1,0 +1,116 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Buildings_ScrollContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/LinearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context=".BuildingsMenuActivity" >
+
+        <Button
+            android:id="@+id/academy_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/academy" />
+        
+        <Button
+            android:id="@+id/armory_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/armory" />
+
+        <Button
+            android:id="@+id/barracks_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/barracks" />
+
+        <Button
+            android:id="@+id/embassy_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/embassy" />
+
+        <Button
+            android:id="@+id/forge_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/forge" />
+
+        <Button
+            android:id="@+id/great_hall_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/great_hall" />
+
+        <Button
+            android:id="@+id/house_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/houses" />
+
+        <Button
+            android:id="@+id/keep_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/keep" />
+
+        <Button
+            android:id="@+id/muster_field_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/muster_field" />
+        
+        <Button
+            android:id="@+id/resource_fields_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/resource_fields" />
+        
+        <Button
+            android:id="@+id/sage_tower_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sage_tower" />
+
+        <Button
+            android:id="@+id/stable_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/stable" />
+
+        <Button
+            android:id="@+id/tavern_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tavern" />
+
+        <Button
+            android:id="@+id/vault_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/vault" />
+
+        <Button
+            android:id="@+id/wall_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/wall" />
+
+        <Button
+            android:id="@+id/watch_tower_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/watch_tower" />
+
+    </LinearLayout>
+
+</ScrollView>

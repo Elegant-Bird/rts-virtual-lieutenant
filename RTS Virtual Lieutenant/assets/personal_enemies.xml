@@ -1,0 +1,17 @@
+<Enemies>
+    <Enemy>
+        <name>SaraLee</name>
+        <alliance>Gold Legion</alliance>
+        <position>Officer</position>
+        <might>200,000</might>
+        <city1_x_coordinate>300</city1_x_coordinate>
+        <city1_y_coordinate>200</city1_y_coordinate>
+        <city2_x_coordinate></city2_x_coordinate>
+        <city2_y_coordinate></city2_y_coordinate>
+        <city3_x_coordinate></city3_x_coordinate>
+        <city3_y_coordinate></city3_y_coordinate>
+        <agression_level></agression_level>
+    </Enemy>
+    
+    
+</Enemies>

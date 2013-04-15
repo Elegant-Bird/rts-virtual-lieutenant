@@ -1,0 +1,1 @@
+ This is what determines how many marches you can send out at one time. For instance, if your muster field is a level 4, you can either send out 4 attacks at once (provided you have at least 4 heroes at your great hall) or 2 attacks and 2 transports to alliance cities (or any other combination of 4). 

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;RTSVirtualLieutenant/res/drawable-hdpi/Arwens_Necklace.jpg&apos; to &apos;arwens_necklace.jpg&apos;" description="Rename resource &apos;Arwens_Necklace.jpg&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="res/drawable-hdpi/Arwens_Necklace.jpg" name="arwens_necklace.jpg" stamp="1365976021669" updateReferences="true"/>
+</session>

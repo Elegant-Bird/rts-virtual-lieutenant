@@ -1,0 +1,23 @@
+Wilds can be quite useful but have also been known to be a pain in the ass, and I'll explain that further later. For now, let's just think about the utility of a Wild. You have your basic wilds as such
+
+(1) Mountains - These will increase your ore production
+
+(2) Hills - These will increase your stone production
+
+(3) Grasslands and Lakes - These will increase your food production
+
+(4) Woods - These will increase your wood production
+
+(5) Plains - Let's just consider these as utterly useless for general production. The only time you should bother with attacking a plain is if you need it for a second city. 
+
+Now, I know that when you send your scout out to a wild and come back with all 3 types of troops (archers, mounted, and foot), you are sorely tempted to send all 3 types of troops to attack. You are more than welcome to do this. However, a tried and tested method would be to send only ONE type of troop. For instance, if a wild has 240 of each type, send 2,000 of one type. It seems insane, sure, but follow this rationale with me okay?
+
+Archers - Strong v. Foot
+Mounted - Strong v. Archers
+Foot - Strong v. Mounted
+
+Ignoring the fact that none of this is real in the real world (Let's be honest, a man on horseback would make short work of men on foot. That's why cavalry is always so prized), let's think about this for a moment. If you send all 3 types of troops, you will lose an equal amount of all 3 troops, right? Because they have troops that are strong against all 3 types of troops. 
+
+However, if you send only Mounted in to attack a wild, then you will only lose a fraction of the soldiers you would have lost has you sent all 3. Only Foot soldiers are strong against mounted, so you'll take losses there, but archers are decimated and other mounts are neutral. Thus, you save troops. 
+
+NOTE: DO NOT TRY THIS WITH OTHER CITIES!!! There is much more at stake when you attack another city and many more factors to take into account, like whether it's Tier 1, 2, or 3, what level hero they have v. your level of hero, do they have amulets boosting their attack and defense. Attacking cities is a completely different beast and should not be approached in the same manner at all. 

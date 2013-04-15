@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.loiseauelegante.rtsvirtuallieutenant"
+    android:versionCode="2"
+    android:versionName="1.2" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.loiseauelegante.rtsvirtuallieutenant.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.loiseauelegante.rtsvirtuallieutenant.EnemyActivity"
+            android:label="@string/title_activity_enemy"
+            android:parentActivityName="com.loiseauelegante.rtsvirtuallieutenant.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.loiseauelegante.rtsvirtuallieutenant.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.loiseauelegante.rtsvirtuallieutenant.AddEnemyActivity"
+            android:label="@string/title_activity_add_enemy"
+            android:parentActivityName="com.loiseauelegante.rtsvirtuallieutenant.EnemyActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.loiseauelegante.rtsvirtuallieutenant.EnemyActivity" />
+        </activity>
+        <activity
+            android:name="com.loiseauelegante.rtsvirtuallieutenant.PersonalHitlistActivity"
+            android:label="@string/title_activity_personal_hitlist"
+            android:parentActivityName="com.loiseauelegante.rtsvirtuallieutenant.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.loiseauelegante.rtsvirtuallieutenant.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.loiseauelegante.rtsvirtuallieutenant.AddPersonalEnemyActivity"
+            android:label="@string/title_activity_add_personal_enemy"
+            android:parentActivityName="com.loiseauelegante.rtsvirtuallieutenant.PersonalHitlistActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.loiseauelegante.rtsvirtuallieutenant..PersonalHitlistActivity" />
+        </activity>
+        <activity
+            android:name="com.loiseauelegante.rtsvirtuallieutenant.StrategyGuideActivity"
+            android:label="@string/title_activity_strategy_guide"
+            android:parentActivityName="com.loiseauelegante.rtsvirtuallieutenant.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.loiseauelegante.rtsvirtuallieutenant.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.loiseauelegante.rtsvirtuallieutenant.WildsMenuActivity"
+            android:label="@string/title_activity_wilds_menu"
+            android:parentActivityName="com.loiseauelegante.rtsvirtuallieutenant.StrategyGuideActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.loiseauelegante.rtsvirtuallieutenant.StrategyGuideActivity" />
+        </activity>
+        <activity
+            android:name="com.loiseauelegante.rtsvirtuallieutenant.AttackDefenseMenuActivity"
+            android:label="@string/title_activity_attack_defense_menu"
+            android:parentActivityName="com.loiseauelegante.rtsvirtuallieutenant.StrategyGuideActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.loiseauelegante.rtsvirtuallieutenant.StrategyGuideActivity" />
+        </activity>
+        <activity
+            android:name="com.loiseauelegante.rtsvirtuallieutenant.AllianceMenuActivity"
+            android:label="@string/title_activity_alliance_menu"
+            android:parentActivityName="com.loiseauelegante.rtsvirtuallieutenant.StrategyGuideActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.loiseauelegante.rtsvirtuallieutenant.StrategyGuideActivity" />
+        </activity>
+        <activity
+            android:name="com.loiseauelegante.rtsvirtuallieutenant.DeedsMenuActivity"
+            android:label="@string/title_activity_deeds_menu"
+            android:parentActivityName="com.loiseauelegante.rtsvirtuallieutenant.StrategyGuideActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.loiseauelegante.rtsvirtuallieutenant.StrategyGuideActivity" />
+        </activity>
+        <activity
+            android:name="com.loiseauelegante.rtsvirtuallieutenant.BuildingsMenuActivity"
+            android:label="@string/title_activity_buildings_menu"
+            android:parentActivityName="com.loiseauelegante.rtsvirtuallieutenant.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.loiseauelegante.rtsvirtuallieutenant.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>

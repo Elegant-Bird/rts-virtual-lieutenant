@@ -1,0 +1,62 @@
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical" 
+ android:layout_width="fill_parent"
+   android:layout_height="fill_parent">
+   
+   <TextView
+       android:id="@+id/name"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:textColor="#FF0000"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+  
+  <TextView android:id="@+id/alliance" 
+	  android:layout_width="wrap_content" 
+	  android:layout_height="wrap_content"/>
+  
+  <TextView android:id="@+id/might" 
+	  android:layout_width="wrap_content" 
+	  android:layout_height="wrap_content"/>
+
+  <TextView
+      android:id="@+id/position"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content" />
+
+  <TextView
+      android:id="@+id/agression_level"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content" />
+
+  <TextView
+      android:id="@+id/city1x"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"/>
+
+  <TextView
+      android:id="@+id/city1y"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"/>
+
+  <TextView
+      android:id="@+id/city2x"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content" />
+
+  <TextView
+      android:id="@+id/city2y"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content" />
+
+  <TextView
+      android:id="@+id/city3x"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content" />
+
+  <TextView
+      android:id="@+id/city3y"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content" />
+
+ </LinearLayout>

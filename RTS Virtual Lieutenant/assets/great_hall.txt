@@ -1,0 +1,6 @@
+Your great hall houses your hero's and their salaries. Each upgrade of your great hall earns you another hero, which, if you have an equal level muster field, means you can send out that many attacks at one time. This is also where you will assign your hero. 
+For instance, if you plan to do some construction or upgrade a building, you would assign your best hero to Construction to cut down on construction time. The same goes for Research.  Remember, you only need to assign your hero when you begin a task. Then you can remove them from that task so that you save that gold you need for researching. 
+
+If you are going to fill up your training queue, go ahead and assign your hero to Training so that those go faster. Do the same if you have an incoming attack and plan to defend. This strengthens your defense. Remember to un-assign after the attack is over, or when you finish adding troops to the queue. 
+
+The Production position will increase the production of your resources by 1% per level of your hero. So, if you have a level 50 hero, you can expect a 50% increase of all resources. I usually assign my hero to this slot when I go to bed, that way I wake up with more resources for queuing in the morning. 

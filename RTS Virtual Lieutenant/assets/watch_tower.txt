@@ -1,0 +1,1 @@
+This lets you know information about incoming attacks. Upgrade this to the max to get the most details on your attacker -- down the exact number of troops coming, where they are coming from, what alliance, whether it’s a scout or attack, etc. You need all of this information if you're going to request reinforcements. 

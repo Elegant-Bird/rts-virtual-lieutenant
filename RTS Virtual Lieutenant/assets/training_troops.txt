@@ -1,0 +1,20 @@
+First, let me say that porters are ABSOLUTELY USELESS. Completely and utterly pointless. The only thing I can think of that they might actually be useful for is cannon fodder. For instance, if you want to attack a city to see if it's troops are "unhidden", you can send a low ranking hero and something that will cost you no might (a porter) and see if it gets in and out unscathed. Then you can send wagons in and clean them out. 
+
+Tier 1 - These troops have 4 might each with 4 units of food as the upkeep
+
+Tier 2 - These troops have 16 might each, with 8 units of food as the upkeep
+
+Tier 3 - These troops have 24 might each, with 16 units of food as the upkeep
+
+Okay, you may hear many different perspectives on this one, but I'll let you know the way I see it. T1's are awesome. Why, you ask? They are the perfect cannon fodder. If you lose 5,000 T1's, it doesn't matter, because that's only 20K might. Useful stuff. Plus, when you attack, or defend, the weakest go first. If you have enough T1's, you can maintain a fairly steady level of might by using that cannon fodder. So, here's the math. For every 10 T1's, you should 2.5 T2's, and 1.7 T3. 
+
+That means that...
+100,000 of a T1 = 400,000 Might
+25,000 of a T2 = 400,000 Might
+16,500 of a T3 = 390,000 Might
+
+Admittedly, the T2's aren't really doing much compared to the difference between them and the T1's and T3's. If you think about it, it's 4 times as much might as a T1 (which seems nice), but a T3 is less than double the might of a T2. Some people do away with T2's altogether. 
+
+Personally? 
+
+Might is might, and building a T2 is way cheaper than building a T3 (in terms of resource and population cost). Build up as much as you can. Just don't underestimate the power of good cannon fodder. 

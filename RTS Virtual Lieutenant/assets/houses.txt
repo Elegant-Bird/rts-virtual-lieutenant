@@ -1,0 +1,4 @@
+You honestly don't need many houses. Many newbies build ten houses or more but it's unnecessary. In reality you only need I max of seven. I have only five. 
+In game you have what's called your population and your idle population. The idle population is the number of free people you have to either train or use to upgrade a resource (population is permanently assigned to resource fields. If your idle population is a negative number,  it's probably because you leveled up resource fields without also leveling up your houses). 
+
+The cool thing about idle population is that if you use it all to train troops, bringing it to zero, it will increase again within an hour, sometimes faster. So you can basically have unlimited troops with the same population subset. 
